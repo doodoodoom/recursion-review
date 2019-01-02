@@ -4,5 +4,7 @@
 // but you don't so you're going to write it from scratch:
 
 var stringifyJSON = function(obj) {
-  // your code goes here
+  //input; primitives and iterable objects
+  //output; a stringified version of the value
+  
 };
